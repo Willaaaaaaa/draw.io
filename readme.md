@@ -1,0 +1,1 @@
+This repo is used to store E-R models which will be used in DB courses.
